@@ -1,0 +1,1 @@
+(autoload 'sl "sl" t)
